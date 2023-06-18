@@ -22,6 +22,8 @@
 >Мой репозиторий:
 <https://github.com/otuzi/8-01-hw/blob/main/README.md> 
 
+<img width="760" alt="Screenshot 2023-06-18 at 15 09 21" src="https://github.com/otuzi/8-01-hw/assets/61628386/aea0b051-5ad4-4a98-b417-c253fd63c9ad">
+
 ---
 ## Задание 2.
 
