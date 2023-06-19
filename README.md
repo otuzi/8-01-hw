@@ -56,3 +56,9 @@
 <https://github.com/otuzi/8-01-hw/network>
 <img width="1367" alt="Screenshot 2023-06-18 at 16 02 15" src="https://github.com/otuzi/8-01-hw/assets/61628386/431d1c4e-a3e6-4f0f-838d-15908a865704">
 
+## поправил:
+<https://github.com/otuzi/8-01-hw/network>
+
+<img width="1542" alt="Screenshot 2023-06-19 at 09 57 10" src="https://github.com/otuzi/8-01-hw/assets/61628386/25ab5500-dfca-4a36-8990-761d06b9ea9d">
+
+
